@@ -1,0 +1,29 @@
+arduino uno
+breadboard 400 pins x3
+dc motor 6-12V x4
+buzzer (low pitch)
+buzze (high pitch)
+RGB LED x2
+LED x 50+
+wide range of capacitors
+wide range of resistors
+diodes x 20
+transistors (PNP and NPN) x 20
+
+
+
+control LED lights
+
+use input (buttons)
+
+use input (serial, keyboard)
+
+use other output (buzzer, rgb led, etc)
+
+control dc motors, displays (transistors, capacitors)
+
+integrate multiple components
+
+wifi module
+
+advanced components and circuitry
